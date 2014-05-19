@@ -1,1 +1,1 @@
-# 0020 EXIT_SUCCESS EXIT_FAILURE(stdlib.h)/
+# 0020 EXIT_SUCCESS(stdlib.h)/
