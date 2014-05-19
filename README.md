@@ -16,5 +16,8 @@
 #### 3. 來源程式碼與目標程式碼<br />3. Source code and object code
 我們將翻譯為機器語言的程式碼稱為目標程式碼(object code)，翻譯成機器語言前較高階程式語言的程式碼為來源程式碼(source code)
 
+### 什麼是倉庫<br />What is a repository
+顧名思義，倉庫就是儲藏東西的場所
+
 ## 授權條款<br />License
 本程式碼倉庫中的程式內容採用 GPL 3.0 或其更新版本之授權條款，非程式內容採用 CC BY-SA 4.0 或更新版本的授權條款。
