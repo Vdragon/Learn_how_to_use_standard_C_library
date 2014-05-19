@@ -1,4 +1,4 @@
-# 學習如何使用標準Ｃ函式庫<br />Learning how to use standard C library
+1G# 學習如何使用標準Ｃ函式庫<br />Learning how to use standard C library
 ## 這是什麼？<br />What is this?
 一言以蔽之，這是一個介紹如何使用標準Ｃ函式庫設計程式的來源程式碼(source code)倉庫(repository)。
 
@@ -7,9 +7,9 @@
 我們的電腦(computer)（中華人民共和國譯為「計算機」）透過由其中央處理元件(central processing unit(CPU))電路不斷地載入(load)、解碼(decode)並執行(execute)我們先前根據其電路設計編碼(encode)後提供給他的程式（代）碼(code)來解決我們的問題(problem)。這些人類不易理解、編寫但該處理電路可以直接載入處理的程式語言我們稱之為機器語言(machine language)。因為處理電路不同其能識別的機器語言就會不同故以機器語言撰寫的程式的可移植性(portability)就非常低。
 
 `````
-55 89 e5 83 e4 f0 83 ec 10 c7 04 24 a8 e9 0b 08 e8 e7 62 00 00 b8 00 00 00 00 c9 c3
+55 89 e5 83 e4 f0 83 ec 10 c7 04 24 a8 e9 0b 08 e8 e7 62 00 00 83 ec 1c 8d 44 24 24 89 44 24 08 8b 44 24 20 89 44 24 04 a1 c0 a4 0e 08 89 04 24 e8 00 de 02 00 83 c4 1c c3 66 90 66 90 66 90 66 90 66 90 66 90 b8 00 00 00 00 c9 c3
 `````
-▲此為印出「Hello programming language world!」一行文字於螢幕上之部份 x86 處理器架構機器語言程式碼
+▲此為印出「Hello programming language world!」一行文字於螢幕上之「一部份」 x86 處理器架構機器語言程式碼
 
 機器語言是程式語言中最低階的語言。
 
