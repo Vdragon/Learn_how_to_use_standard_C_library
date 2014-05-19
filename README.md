@@ -1,4 +1,4 @@
-# 學習如何使用標準Ｃ函式庫<br />Learning how to use standard C library
+# 學習如何使用標準Ｃ函式庫<br />Learn how to use standard C library
 ## 這是什麼？<br />What is this?
 一言以蔽之，這是一個介紹如何使用標準Ｃ函式庫設計程式的來源程式碼(source code)倉庫(repository)。
 
