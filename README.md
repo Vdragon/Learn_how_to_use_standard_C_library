@@ -1,8 +1,8 @@
 # 學習如何使用標準Ｃ函式庫<br />Learning how to use standard C library
-## 這是什麼<br />What is this?
+## 這是什麼？<br />What is this?
 一言以蔽之，這是一個介紹如何使用標準Ｃ函式庫設計程式的來源程式碼(source code)倉庫(repository)。
 
-### 什麼是來源程式碼<br />What is source code?
+### 什麼是來源程式碼？<br />What is source code?
 #### 1. 機器語言<br />1. Machine language  
 我們的電腦(computer)（中華人民共和國譯為「計算機」）透過由其中央處理元件(central processing unit(CPU))電路不斷地載入(load)、解碼(decode)並執行(execute)我們先前根據其電路設計編碼(encode)後提供給他的程式（代）碼(code)來解決我們的問題(problem)。這些人類不易理解、編寫但該處理電路可以直接載入處理的程式語言我們稱之為機器語言(machine language)。因為處理電路不同其能識別的機器語言就會不同故以機器語言撰寫的程式的可移植性(portability)就非常低。
 
@@ -31,7 +31,7 @@ int main(void){
 #### 3. 來源程式碼與目標程式碼<br />3. Source code and object code
 我們將翻譯為機器語言的程式碼稱為目標程式碼(object code)，翻譯成機器語言前較高階程式語言的程式碼為來源程式碼(source code)
 
-### 什麼是倉庫<br />What is a repository
+### 什麼是倉庫？<br />What is a repository?
 顧名思義，倉庫就是儲藏東西的場所。由於目標程式碼可由來源程式碼翻譯產生我們通常只會在程式碼倉庫中保存來源程式碼。
 
 ## 授權條款<br />License
