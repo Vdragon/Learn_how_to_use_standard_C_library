@@ -32,6 +32,7 @@ int printf(char format_control_string[], ...);
 			* field
 			* precision
 			* etc.
+			
 ## 參考資料<br />Reference data
 * printf - C++ Reference  
   http://www.cplusplus.com/reference/cstdio/printf/
